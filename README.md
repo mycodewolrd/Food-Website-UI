@@ -1,5 +1,5 @@
 # Food-Website-UI
-It's a frontend template using HTML and CSS only
+It's a frontend template using HTML and CSS only.
 
 
 # Hero Page:
